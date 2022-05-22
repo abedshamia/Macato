@@ -875,5 +875,5 @@ The person who uses the system and benefits of its services.
 - Node.js
 - Express
 - PostgreSQL
-
+- Stripe
 
