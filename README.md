@@ -1,5 +1,12 @@
 # Macato
 
+# Background
+
+Macato allows users to hire a personal chef to come and cook for them at home instantly through its online platform.
+
+
+# Phases
+
 **Phase 1: User Stories**
 
 **Phase 2: Functional Requirements**
@@ -9,7 +16,7 @@
 
 
 
-## Macato User Stories
+## User Stories
 <table>
     <th>
     001</th>
@@ -849,3 +856,19 @@ The person who uses the system and benefits of its services.
 - Clicking on the Menus on the sidebar lists all menus and a reject button beside which deletes the specifice menu.
 - Clicking on the Users on the sidebar lists all users with a reject button beside which deletes this specific user.
 - Logout button on the navbar allows the admin to logout of the system.
+
+
+## Technologies
+
+#### Frontend
+
+- React
+
+
+#### Backend
+
+- Node.js
+- Express
+- PostgreSQL
+
+
