@@ -245,12 +245,12 @@ Macato allows users to hire a personal chef to come and cook for them at home in
     <th>
     015</th>
     <th width=1000px>
-    View Chef Menu</th>
+    Add Feedback</th>
     <tbody>
     <tr>
         <td></td>
         <td>
-        As a registered user, I want to be able to view the menu of the picked chef. So I can see the content of it
+        As a registered user, I want to be able to add feedback after booking. So I can help macato improve its service.
         </td>
         </tr>
     </tbody>
@@ -620,7 +620,8 @@ The person who uses the system and benefits of its services.
     <tr>
         <td width="15%">Req 012</td>
         <td width=1000px>
-        The system shall allow users to register to view the menu of the picked chef.
+        The system shall allow users to register to view the 
+            of the picked chef.
         </td>
         </tr>
     </tbody>
@@ -862,7 +863,11 @@ The person who uses the system and benefits of its services.
 
 #### Frontend
 
+- HTML5
+- CSS3
 - React
+- Redux
+- Ant Design library
 
 
 #### Backend
